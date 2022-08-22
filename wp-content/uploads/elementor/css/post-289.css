@@ -1,0 +1,14 @@
+.elementor-289 .elementor-element.elementor-element-6ce499b{text-align:left;width:150.734%;max-width:150.734%;bottom:-191px;}.elementor-289 .elementor-element.elementor-element-6ce499b .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:50px;font-weight:600;}body:not(.rtl) .elementor-289 .elementor-element.elementor-element-6ce499b{left:422.993px;}body.rtl .elementor-289 .elementor-element.elementor-element-6ce499b{right:422.993px;}.elementor-289 .elementor-element.elementor-element-3edbcd3 > .elementor-container{max-width:1600px;}.elementor-289 .elementor-element.elementor-element-3057a84 img{width:100%;}.elementor-289 .elementor-element.elementor-element-b30e0c5 > .elementor-container{max-width:1600px;}.elementor-289 .elementor-element.elementor-element-b30e0c5{margin-top:40px;margin-bottom:40px;}.elementor-289 .elementor-element.elementor-element-93b4d5f:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-289 .elementor-element.elementor-element-93b4d5f > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F0EDED;}.elementor-289 .elementor-element.elementor-element-93b4d5f > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 180px 40px 40px;}.elementor-289 .elementor-element.elementor-element-93b4d5f > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-289 .elementor-element.elementor-element-a6588fc{text-align:left;color:#0BB38E;font-family:"Roboto", Sans-serif;font-size:40px;font-weight:600;text-transform:capitalize;line-height:40px;}.elementor-289 .elementor-element.elementor-element-972bf54{text-align:left;color:#000000D6;font-family:"Roboto", Sans-serif;font-size:21px;font-weight:400;text-transform:capitalize;line-height:28px;word-spacing:5px;}.elementor-289 .elementor-element.elementor-element-2f80e30 img{max-width:100%;height:348px;}.elementor-289 .elementor-element.elementor-element-2f80e30{width:100%;max-width:100%;top:49px;}body:not(.rtl) .elementor-289 .elementor-element.elementor-element-2f80e30{left:-122px;}body.rtl .elementor-289 .elementor-element.elementor-element-2f80e30{right:-122px;}@media(min-width:768px){.elementor-289 .elementor-element.elementor-element-93b4d5f{width:69.218%;}.elementor-289 .elementor-element.elementor-element-bc0a069{width:30.742%;}}/* Start custom CSS for heading, class: .elementor-element-6ce499b */.about{
+    position: relative;
+}
+
+.about::before{
+    content: "";
+    position: absolute;
+    width: 237px;
+    height: 15px;
+    background-color: #0BB38E;
+    bottom: 4px;
+    z-index: -1;
+    
+}/* End custom CSS */
